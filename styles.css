@@ -1,0 +1,46 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+button {
+  font-size: 45px;
+  font-family: "Lucida Handwriting",cursive;
+  color: red;
+  background-color: #4ECCA3;
+  position: relative;
+  left: 45.5%;
+  top: 50px;
+  height: 70px;
+  width: 150px;
+  border-radius: 10px;
+}
+
+body {
+  background-color: 	#ffb6c1;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Lucida Handwriting",cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: "Lucida Handwriting",cursive;
+}
+
+img {
+  width: 65%;
+}
